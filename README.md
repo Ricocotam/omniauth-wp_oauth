@@ -2,10 +2,11 @@
 
 This gem is a Work In Progress Proof Of Concept to use the Wordpress plugin [WP-OAuth](https://wp-oauth.com/).
 
-## Usage
+## Usage
+
 TBD
 
-## TODO
+## TODO
 - [ ] Tests
 - [ ] Finish Readme
 
